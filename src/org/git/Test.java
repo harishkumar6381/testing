@@ -1,4 +1,4 @@
-package org.fb;
+package org.git;
 
 public class Test{
 }
